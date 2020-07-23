@@ -82,7 +82,7 @@ EFI/Boot: Has other necessary boot files
 **Misc**
 - [x] Sound (internal speakers + mic jack on/off)
 - [x] Touchpad
-- [x] Thunderbolt hotplug
+- [x] Thunderbolt hotplug ( x 不支持右侧雷电口热插拔,有空再研究)
 
 ## Not fully working/Issues
 
