@@ -7,7 +7,7 @@
 可参阅我的博客(第一篇) :
 My blog:
 
-http://http://dden.me/index.php/archives/5/
+http://dden.me/index.php/archives/5/
 
 ## 我的设备规格
 ## Specs
