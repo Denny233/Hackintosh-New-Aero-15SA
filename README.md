@@ -114,3 +114,9 @@ Only show I can contact,
 ```
 ## MarkDown template
 [Hackintosh-Aero-15X](https://github.com/zacmks/Hackintosh-Aero-15X/blob/master/README.md "Hackintosh-Aero-15X")
+## 捐赠
+如果我的文件对你有帮助可以尝试捐赠以此来帮助维护者开发
+
+![](/alipay.jpg)
+
+![](/wechat.jpg)
