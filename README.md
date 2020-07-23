@@ -117,7 +117,5 @@ Only show I can contact,
 ## 捐赠
 如果我的文件对你有帮助可以尝试捐赠以此来帮助维护者开发
 
-![](/alipay.jpg){:height="147" width="95"}
-
-![](/wechat.jpg){:height="145" width="108"}
-
+<img src="/alipay.jpg" style="width:95 ;height:auto ">
+<img src="/wechat.jpg" style="width:108 ;height:auto ">
