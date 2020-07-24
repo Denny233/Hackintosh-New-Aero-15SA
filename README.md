@@ -20,7 +20,7 @@ http://dden.me/index.php/archives/5/
 - m.2 NVME SSD Samsung 970 evo plus (500G)
 I/O | Ports:
 - 3x USB 3.1 Gen1 (Type-A)
-- 1x USB- Type-C 
+- 1x USB Type-C 
 - 1x Thunderbolt™ 3 (USB Type-C no hot plug)
 - 1x HDMI
 - 1x 3.5mm Headphone/Microphone Combo Jack
@@ -38,6 +38,7 @@ Misc:
 ### For OpenCore users
 
 写在前面: 如果你不熟悉或者第一次接触OpenCore或者 Hackintosh 请不要随意使用
+
 **NOTE**: If you are unfamiliar with OpenCore or Hackintosh, don't use it
 
 为OpenCore提供了一个通用配置。考虑该存储库的当前macOS支持版本
