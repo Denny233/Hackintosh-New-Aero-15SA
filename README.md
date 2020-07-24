@@ -20,7 +20,8 @@ http://dden.me/index.php/archives/5/
 - m.2 NVME SSD Samsung 970 evo plus (500G)
 I/O | Ports:
 - 3x USB 3.1 Gen1 (Type-A)
-- 2x Thunderbolt™ 3 (USB Type-C)
+- 1x USB- Type-C 
+- 1x Thunderbolt™ 3 (USB Type-C no hot plug)
 - 1x HDMI
 - 1x 3.5mm Headphone/Microphone Combo Jack
 - 1x SD Card Reader
