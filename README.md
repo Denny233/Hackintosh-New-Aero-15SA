@@ -9,29 +9,6 @@ My blog:
 
 http://dden.me/index.php/archives/5/
 
-## 我的设备规格
-## Specs
-
-```
-- Processor: i7-9750H
-- Memory: 16GB 2667 MHz Samsung DDR4 (Upgraded, originally was 8GB)
-- Panel: LCD FHD 144Hz 1920x1080 IPS
-- Graphics: Intel UHD Graphics 630 + NVIDIA GeForce GTX 1660ti
-- m.2 NVME SSD Samsung 970 evo plus (500G)
-I/O | Ports:
-- 3x USB 3.1 Gen1 (Type-A)
-- 1x USB Type-C 
-- 1x Thunderbolt™ 3 (USB Type-C no hot plug)
-- 1x HDMI
-- 1x 3.5mm Headphone/Microphone Combo Jack
-- 1x SD Card Reader
-- 1x DC-in
-- LAN Killer E2600 
-- WLAN Killer AX1650x (Intel Ax200)
-Misc:
-- Internal Speaker
-- HD Camera
-```
 ### 如何使用 :
 ### How to use this repository:
 ### 仅仅针对于 *OpenCore* 用户
@@ -65,6 +42,9 @@ EFI/Boot: Has other necessary boot files
 - MacOS 11.1 (Big Sur)
 - **If your notebook mold is similar to mine, it should be able to be modified from my base and used, but I am not responsible for it**
 ## Special thanks to:
+
+## 注意
+使用请备份好重要数据 以及 使用合适的Opencore PE ( 推荐WEPE )多分区U盘 (16G+)
 
 Only show I can contact,
 ```
