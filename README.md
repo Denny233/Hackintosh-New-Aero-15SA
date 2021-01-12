@@ -3,7 +3,8 @@
 # Hackintosh-New-aero-15-SA
 (中英双语-Bilingual in English and Chinese)
 已经测试运行 Mac OS :Catalina 15.5 15.6
-
+# Big Sur :
+https://github.com/Denny233/Hackintosh-New-Aero-15SA/tree/os-bigsur
 可参阅我的博客(第一篇) :
 My blog:
 
