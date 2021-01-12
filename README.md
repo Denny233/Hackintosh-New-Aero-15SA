@@ -2,7 +2,7 @@
 
 # Hackintosh-New-aero-15-SA
 (中英双语-Bilingual in English and Chinese)
-已经测试运行 Mac OS :Catalina 15.5 15.6
+已经测试运行 Mac OS :Big Sur 11.1
 
 可参阅我的博客(第一篇) :
 My blog:
@@ -54,65 +54,21 @@ EFI/Boot: Has other necessary boot files
  [中文用户参考我在这学到很多:Xin's blog博客](https://blog.xjn819.com/?p=543 "OpenCore中文优秀博客")
 
 
-## Working
-
-**USB Based Devices**
-- [x] All USB ports
-- [x] Keyboard 
-- [x] Bluetooth 
-- [x] LAN 
-- [x] WLAN (ax200 驱动 感谢远景论坛 大佬@qcwap2012 [原文链接](http://bbs.pcbeta.com/viewthread-1848662-1-1.html "")
-	如果你需要使用,截至目前(也就是大佬完全完成驱动 和控制APP之前)你需要配置kext的info文件 具体请参考以上链接
-	you'll need to configure the Kext info file by now (before the driver and controlAPP complecated). See the links above for details
-	
-
-**Network**
-- [x] Ethernet card
-- [x] WiFi + Bluetooth
-
-**Power**
-- [x] CPU power management
-- [x] Battery indicator	(哥们改了两个小时It took two hours to fix )
-- [x] USB PM
-- [x] Shutdown/Sleep(maybe?)/Restart
-- [x] Saving/Restoring screen brightness on reboot
-
-**Graphics**
-- [x] Intel graphics card
-- [x] HDMI (with Nvidia GC)
-
-**Misc**
-- [x] Sound (internal speakers + mic jack on/off)
-- [x] Touchpad
-- [x] Thunderbolt hotplug ( x 不支持右侧雷电口热插拔,有空再研究)
-
 ## Not fully working/Issues
-
-- [ ] Built-in speaker 
-	~~当外接耳机(Type-C test,i hava no 3.5mm test)插好后，重启笔记本电脑，内置扬声器可能可用，几率小于50%
-	When the type-C test (I Hava No 3.5mm Test) is plugged in and the laptop restarts, the built-in speaker may be available, less than 50% of the time~~
-	以上问题仅仅针对我个人,其他使用者(百度贴吧)似乎并没有出现
-	The above question is only for me, other users do not seem to appear
-	注入 CodecCommander.kext 并且在Mac端运行可解决 alc_fix/对应command文件即可
 	
-- [ ]  ELAN touchpad
-	
-	就那B样,大部分手势支持.
-	
-	that's it. Most gestures work
+- [ ]  螃蟹255
+内置扬声器可在Windows 关闭 快速启动情况下,关机,启动至mac os 
+否则: 只有耳机可用
 
 ## Support status:
 
-- MacOS 10.15 	 (Catalina)
-- MacOS 10.16 	 (Catalina)
-- Ready to test 11	 ( Big Sur)
+- MacOS 11.1 (Big Sur)
 - **If your notebook mold is similar to mine, it should be able to be modified from my base and used, but I am not responsible for it**
 ## Special thanks to:
 
 Only show I can contact,
 ```
 	小刘黑苹果专业定制 Xiaoliu Hackintosh Studio 
-		He did 90% of the work(except for built-in speaker), I just fix and release.
 ```
 ## MarkDown template
 [Hackintosh-Aero-15X](https://github.com/zacmks/Hackintosh-Aero-15X/blob/master/README.md "Hackintosh-Aero-15X")
