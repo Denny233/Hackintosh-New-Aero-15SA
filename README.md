@@ -3,6 +3,8 @@
 # Hackintosh-New-aero-15-SA
 (中英双语-Bilingual in English and Chinese)
 已经测试运行 Mac OS :Catalina 15.5 15.6
+# ** STOP UPDATE ** 
+# ** FVCK U GIGABYTE TAIWAN** 
 # ** Big Sur **:
 https://github.com/Denny233/Hackintosh-New-Aero-15SA/tree/os-bigsur
 
